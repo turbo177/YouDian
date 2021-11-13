@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Empty Ability"
+    },
+    {
+      "name": "mainability_HelloWorld",
+      "value": "Hello World"
+    },
+    {
+      "name": "modeability_onesentence",
+      "value": "人生的奋斗目标将决定你将成为怎样的人。-----欧文"
+    },
+    {
+      "name": "modeability_enonesentence",
+      "value": "Gods determine what you are going to be. -----Julius Ervin"
+    },
+    {
+      "name": "word",
+      "value": "abandon"
+    },
+    {
+      "name": "option1",
+      "value": "adj.抛弃、放弃"
+    },
+    {
+      "name": "option2",
+      "value": "收养"
+    },
+    {
+      "name": "option3",
+      "value": "衣服、服装"
+    },
+    {
+      "name": "option4",
+      "value": "个人习惯"
+    }
+  ]
+}
